@@ -1,0 +1,14 @@
+.btn {
+  margin-left: 15px;
+}
+
+.name {
+  font-size: 20px;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.number {
+  font-size: 15px;
+  font-weight: 400;
+}
